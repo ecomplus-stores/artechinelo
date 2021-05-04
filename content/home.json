@@ -24,6 +24,15 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais vendidos",
+      "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
       "page": 1
     },
     {
