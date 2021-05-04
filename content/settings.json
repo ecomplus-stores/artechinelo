@@ -1,24 +1,24 @@
 {
-  "store_id": 1076,
-  "name": "artechinelo",
-  "domain": "artechinelo.netlify.app",
-  "short_name": "artechinelo",
-  "description": "artechinelo",
+  "domain": "chinelosnoatacado.com.br",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/artechinelo",
+  "logo": "/img/uploads/1536894219_logo-1-1-.png",
+  "name": "artechinelo",
+  "short_name": "artechinelo",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/1536894219_logo-1-1-.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/artechinelo"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/1536894219_logo-1-1-.png",
+  "store_id": 1076,
+  "description": "artechinelo",
+  "large_icon": "/img/uploads/1536894219_logo-1-1-.png"
 }
