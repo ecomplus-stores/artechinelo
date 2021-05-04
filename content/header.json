@@ -1,17 +1,18 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Aproveite nossos kits completos para lucar mais!!",
+    "link": "/kitscompletos",
+    "background": "#e67979"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Quem somos",
+        "link": "/pages/quemsomos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Atendimento",
+        "link": "atendimento"
       }
     ],
     "phone_wpp": true,
