@@ -1,7 +1,7 @@
 {
   "domain": "chinelosnoatacado.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#e86464",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "clean-gray"
