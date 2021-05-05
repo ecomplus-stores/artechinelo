@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 900,
       "slides": [
         {
           "img": "https://images.tcdn.com.br/img/img_prod/623060/1609723932_1592144527_1581306696_capturar[1][1].jpg",
