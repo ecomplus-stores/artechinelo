@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9247b7b0feaf96a9466e21d07f9b017f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a020e24ba1df412f04c1188658c12285.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.01d809711550a090d77a54a508837bd4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6535d3fc8a5d8b26023b9cad7444d6e0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b9bb1966223097ba8511055538c3840f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Artechinelos",
+  "short_name": "artechinelo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "artechinelo",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
